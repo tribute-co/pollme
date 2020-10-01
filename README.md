@@ -6,7 +6,7 @@ Django poll app is a full featured polling app. You have to register in this app
 
 <h4>Prerequisites</h4>
 
-`python== 3.5` or up and `django==2.0` or up
+You need `git` and `python>=3.5`.
 
 Install listed dependencies in `requirements.txt`
 
