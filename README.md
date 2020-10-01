@@ -5,11 +5,13 @@ Django poll app is a full featured polling app. You have to register in this app
 <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
 
 <h4>Prerequisites</h4>
+
 `python== 3.5` or up and `django==2.0` or up
 
 Install listed dependencies in `requirements.txt`
 
 <h2>To migrate the database open terminal in project directory and type</h2>
+
 `python manage.py migrate`
 
 <h2>To start with some dummy data load the fixtures:</h2>
